@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings_button"
+        android:title="@string/account_settings" />
+    <item
+        android:id="@+id/show_All"
+        android:title="Show all Creations" />
+    <item
+        android:id="@+id/myPosts"
+        android:title="My Posts" />
+    <item android:title="Top Posts" >
+        <menu >
+            <item
+                android:id="@+id/likeHL"
+                android:title="Top Posts: All" />
+            <item
+                android:id="@+id/topPoetry"
+                android:title="Top Posts: Poetry" />
+            <item
+                android:id="@+id/topScifi"
+                android:title="Top Posts: Sci-Fi" />
+            <item
+                android:id="@+id/topHorror"
+                android:title="Top Posts: Horror" />
+            <item
+                android:id="@+id/topFC"
+                android:title="Top Posts: Free Creation" />
+            <item
+                android:id="@+id/topQRea"
+                android:title="Top Posts: QRea" />
+        </menu>
+    </item>
+    <item android:title="Order Posts By" >
+        <menu >
+            <item
+                android:id="@+id/genPoet"
+                android:title="Genre: Poetry" />
+            <item
+                android:id="@+id/genScifi"
+                android:title="Genre: Sci-Fi" />
+            <item
+                android:id="@+id/genHorror"
+                android:title="Genre: Horror" />
+            <item
+                android:id="@+id/genFC"
+                android:title="Genre: Free Creation" />
+            <item
+                android:id="@+id/genQRea"
+                android:title="QRea Creations" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_logout_btn"
+        android:title="@string/action_logout_btn" />
+</menu>

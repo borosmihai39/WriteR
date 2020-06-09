@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Licenta</string>
+    <string name="Titlu">writer</string>
+    <string name="LogoDescription">Logo for login page</string>
+    <string name="EmailLogin">EmailLogin</string>
+    <string name="PasswordLicenta">Password</string>
+    <string name="Login">Login</string>
+    <string name="Acct">Need an account?</string>
+    <string name="BUNA_OANA">Buna oana!!</string>
+    <string name="action_search_text">Searh</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="action_logout_btn">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="create_acct">Create Account</string>
+    <string name="Register">Register</string>
+    <string name="reg_text_down">Already have an account?</string>
+    <string name="reg_pass_text">Password</string>
+    <string name="reg_confirmPass_text" />
+    <string name="reg_confirmPass">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="Setup_name_hint">Your Name</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="AddTitle">Add a title to your post</string>
+    <string name="Composition">Write your composition over here</string>
+    <string name="Post">Post your creation</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_categories">Categories</string>
+    <string name="bottom_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email_lgn">Email</string>
+    <string name="Choose_Cat">Choose text genre</string>
+    <string name="PostedUnder">"Posted in: "</string>
+    <string name="Poetry">Poetry</string>
+    <string name="Free">Free Creation</string>
+    <string name="Horror">Horror</string>
+    <string name="Scifi">Sci-Fi</string>
+    <string name="freecrt">No boundaries, feel free to create whatever you want!</string>
+    <string name="qr">QRea</string>
+    <string name="InitiateScan">Initiate QRea Scan</string>
+    <string name="GoBack">Go back</string>
+    <string name="writer">writer</string>
+    <string name="Warning">Please add a name and a profile picture in order to be able to post and view other posts!</string>
+    <string name="Compositionnew">Please write your composition here. Do not forget to add a picture and choose a suitable category!</string>
+    <string name="SaveAcct">Save Account Settings</string>
+</resources>

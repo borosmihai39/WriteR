@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="Free creation" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Poetry" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="Horror" />
+
+    <item
+        android:id="@+id/item4"
+        android:title="Sci-Fi" />
+</menu>
